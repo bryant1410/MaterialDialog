@@ -34,7 +34,7 @@ dependencies {
 
 If it doesn't work, please send me a email, drakeet.me@gmail.com
 
-####Or
+#### Or
 
 Import the library, then add it to your `/settings.gradle` and `/app/build.gradle`, if you don't know how to do it, you can read my blog for help.
 
